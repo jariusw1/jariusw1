@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarius Williams</h1>
-<h1 align="center">I'm interested in Information Technology, Automation, DevOps
+<h1 align="center">I'm interested in Developing software, Information Technology, Automation, DevOps
 <h3 align="center">A passionate IT student</h3>
 
 - 📫 How to reach me **jarius.williams97@gmail.com**
