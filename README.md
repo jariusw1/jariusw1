@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jarius Williams</h1>
 <h1 align="center">I'm interested in software development, cloud & devops
-<h3 align="center">Passionate in my career in tech</h3>
+<h3 align="center">Passionate about all things tech!</h3>
 
-- 📫 How to reach me **jarius.williams97@gmail.com**
+- ⚡ I enjoy reading, watching movies, listening to music, and lifting weights
+- 📫 Reach out to me: **jarius.williams97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
